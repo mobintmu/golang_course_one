@@ -8,6 +8,10 @@
 https://www.youtube.com/@mobinshaterian
 
 
+## playlist Golang
+
+https://www.youtube.com/watch?v=0MEVhd7Hz70&list=PLzDEgWkokTJzMcScVsSVDQK9GWoQC432L
+
 # مقاله های آموزش
 
 https://mobinshaterian.medium.com/

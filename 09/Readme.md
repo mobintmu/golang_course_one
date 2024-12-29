@@ -1,4 +1,4 @@
-# x^(2)+y^(2)=4051
+# x^(2)+y^(2)=40501
 
 
 https://youtu.be/tuFzPXkd2KI?si=dpU71akfWrka-90M
